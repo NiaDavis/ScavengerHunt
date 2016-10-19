@@ -5,5 +5,5 @@ if (scriptEd == "yes" || scriptEd == "yerp" || scriptEd == "yup") {
 } else if (scriptEd == "no") {
     alert("Boo!");
 } else {
-    alert("You stink! You cant even answer a yes or no question.");
+    alert("You stink! You cannot even answer a yes or no question.");
 }

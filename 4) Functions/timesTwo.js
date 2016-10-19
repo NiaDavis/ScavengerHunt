@@ -1,4 +1,7 @@
-
+function hello(x) {
+    return 2 * x;
+}
+console.log(hello(236))
 // Example Function:
 
 // function myFunction(p1, p2) {
